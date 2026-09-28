@@ -1,16 +1,17 @@
-# CryptoFlow – One Page Template
+# ChatDeck - Free Tailwind CSS & Next.js Starter Website Template
+
 #### Preview
 
- - [Demo](https://themewagon.github.io/cryptoflow/)
+ - [Demo](https://themewagon.github.io/chatdeck/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/cryptoflow/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/chatdeck/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/cryptoflow.git
+git clone https://github.com/themewagon/chatdeck.git
 ```
 2. Install Dependencies
 ```
@@ -30,11 +31,11 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by codescandy and development team. 
+Design and code is completely written by Shadcndeck and development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="url" target="_blank">codescandy</a>
+ - Design and Code is Copyright &copy; <a href="https://www.shadcndeck.com/" target="_blank">Shadcndeck</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>

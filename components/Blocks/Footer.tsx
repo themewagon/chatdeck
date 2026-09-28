@@ -91,7 +91,7 @@ export const Footer = () => {
                 {/* Copyright */}
                 <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
                     <p className="text-sm text-gray-600 dark:text-gray-400 text-center">
-                        © {new Date().getFullYear()} ChatDeck. All rights reserved by <a href="https://www.shadcndeck.com/" target="_blank" className="text-blue-600 font-semibold dark:text-blue-400 hover:underline">Shad CnDeck</a> &bull; Distributed by <a href="https://themewagon.com/" target="_blank" className="text-blue-600 font-semibold dark:text-blue-400 hover:underline">ThemeWagon</a>
+                        © {new Date().getFullYear()} ChatDeck. All rights reserved by <a href="https://www.shadcndeck.com/" target="_blank" className="text-blue-600 font-semibold dark:text-blue-400 hover:underline">Shadcndeck</a> &bull; Distributed by <a href="https://themewagon.com/" target="_blank" className="text-blue-600 font-semibold dark:text-blue-400 hover:underline">ThemeWagon</a>
                     </p>
                 </div>
             </div>
